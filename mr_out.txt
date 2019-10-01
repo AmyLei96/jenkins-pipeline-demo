@@ -1,0 +1,5 @@
+This is output from HDFS MR job
+This is output from HDFS MR job
+This is output from HDFS MR job
+This is output from HDFS MR job
+This is output from HDFS MR job
